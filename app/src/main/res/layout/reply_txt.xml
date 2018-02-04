@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <EditText android:id="@+id/et_cnt"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="6"
+        android:hint="@string/input_hint"
+        android:inputType="textMultiLine"
+        android:scrollbars="vertical"
+        android:gravity="top" />
+    
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <Button android:id="@+id/btn_clear"
+            android:text="@string/clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        
+        <Button android:id="@+id/btn_save"
+            android:text="@string/save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip" />
+        
+    </LinearLayout>
+    
+</LinearLayout>
