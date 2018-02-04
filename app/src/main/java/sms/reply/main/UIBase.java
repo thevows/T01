@@ -41,7 +41,8 @@ public abstract class UIBase extends Activity {
 		this.Init();
 		this.SetEvents();
 		super.onResume();
-	}//end event onResume
+	}//end event onResume 就好
+
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
