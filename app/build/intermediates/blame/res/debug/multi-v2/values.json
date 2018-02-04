@@ -1,6 +1,28 @@
 {
     "logs": [
         {
+            "outputFile": "/Volumes/DATA/GitHub/DSCT-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Volumes/DATA/GitHub/DSCT-app/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,7,8,15,11,20,14,16,5,3,22,13,17,6,18,9,12,21,19,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "129,297,341,663,494,902,622,703,189,59,1004,571,754,246,804,391,533,952,847,446",
+                        "endColumns": "58,42,48,38,37,48,39,49,55,68,33,49,48,49,41,53,36,50,53,46",
+                        "endOffsets": "183,335,385,697,527,946,657,748,240,123,1033,616,798,291,841,440,565,998,896,488"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,157,206,245,283,332,372,422,478,547,581,631,680,730,772,826,863,914,968",
+                        "endColumns": "58,42,48,38,37,48,39,49,55,68,33,49,48,49,41,53,36,50,53,46",
+                        "endOffsets": "109,152,201,240,278,327,367,417,473,542,576,626,675,725,767,821,858,909,963,1010"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Volumes/DATA/CloudStation/android/BlueTooth/DSCT-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
